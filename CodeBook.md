@@ -2,7 +2,9 @@ CODE BOOK for Human Activity Recognition Using Smartphones Dataset
 Description:
 Tidy dataset for Coursera Getting and Cleaning Data 2014
 In this dataset I use only part of the original dataset:
-==================================================================
+
+----------------------------------------------------------------------------------------------
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
@@ -34,12 +36,13 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
-===========================================================================================
+
+------------------------------------------------------------------------------------------------
 #	In this tidy dataset I calculated average of variables that dealing with:
 #							mean(): Mean value
 #							std(): Standard deviation
 #	The dataset has 180 rows of  88 variables including 2 group variables described below:
-===========================================================================================
+------------------------------------------------------------------------------------------------
 
 Group.subjects 2
 	Subjects participate in the study
@@ -55,9 +58,9 @@ Group.activity  18
 	6 LAYING
 	
 	
-=============================================================================================
+--------------------------------------------------------------------------------------------------
 The followings are average of each corresponding variable for each activity and each subject. 
-=============================================================================================             
+--------------------------------------------------------------------------------------------------            
  [3] "tBodyAcc-mean()-X"                    "tBodyAcc-mean()-Y"                   
  [5] "tBodyAcc-mean()-Z"                    "tBodyAcc-std()-X"                    
  [7] "tBodyAcc-std()-Y"                     "tBodyAcc-std()-Z"                    
