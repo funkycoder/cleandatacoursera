@@ -21,7 +21,7 @@ For each record it is provided:
 
 
 
-The tidy dataset includes the following files:
+This repository includes the following files:
 -------------------------------------------------------------------------------------------------
 - 'README.md' This file
 
@@ -29,6 +29,7 @@ The tidy dataset includes the following files:
 
 - 'cleandata.csv' The clean dataset itself
 
+- 'run_analysis.R' The R code to make this tidy dataset
 --------------------------------------------------------------------------------------------------
 How the script works line by line
 --------------------------------------------------------------------------------------------------
