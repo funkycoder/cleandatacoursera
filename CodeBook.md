@@ -40,6 +40,7 @@ fBodyGyroJerkMag
 #							std(): Standard deviation
 #	The dataset has 180 rows of  88 variables including 2 group variables described below:
 ===========================================================================================
+
 Group.subjects 2
 	Subjects participate in the study
 	1..30 Unique identifier of the subject
@@ -52,6 +53,8 @@ Group.activity  18
 	4 SITTING
 	5 STANDING
 	6 LAYING
+	
+	
 =============================================================================================
 The followings are average of each corresponding variable for each activity and each subject. 
 =============================================================================================             
